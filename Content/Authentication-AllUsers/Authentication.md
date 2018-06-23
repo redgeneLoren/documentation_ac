@@ -12,7 +12,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
  The credentials are created by the assigned <b>admin</b> base on <b>role assignment</b>. 
 
- <img style="height: 250px;" src="/images/LogInPage.png" align="middle">
+ <img src="images\LogInPage.png" style="height: 250px;" align="middle">
 
  <ins>`Unregistered Users`</ins>
 
@@ -24,19 +24,19 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
  
  - Then, access the URL: `http://actajanlangit.herokuapp.com` to log in.
 
-    <img style="height: 15px; width: 450px" src="/images/URLLink.png" align="middle">
+    <img style="height: 15px; width: 450px" src="images/URLLink.png" align="middle">
 
  - Type in your `registered email` inside the `textbox` below the text label: `Email`. 
 
-    <img style="height: 50px; width: 250px" src="/images/EmailTextBox.png" align="middle">
+    <img style="height: 50px; width: 250px" src="images/EmailTextBox.png" align="middle">
  
  - Then, type in your `registered password` inside the `textbox` below the text label: `Password`. 
 
-    <img style="height: 50px; width: 250px" src="/images/PasswordTextBox.png" align="middle">
+    <img style="height: 50px; width: 250px" src="images/PasswordTextBox.png" align="middle">
 
  - Click on the `Sign me in` button to enter the application.
  
-    <img style="height: 35px; width: 200px" src="/images/SignMeInButton.png">
+    <img style="height: 35px; width: 200px" src="images/SignMeInButton.png">
 
     
 
@@ -46,11 +46,11 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 - Type in your `registered email` inside the `textbox` below the text label: `Email`.
 
-    <img style="height: 50px; width: 250px" src="/images/EmailTextBox.png" align="middle">
+    <img style="height: 50px; width: 250px" src="images/EmailTextBox.png" align="middle">
 
  - Then, type in your `registered password` inside the `textbox` below the text label: `Password`. 
 
-    <img style="height: 50px; width: 250px" src="/images/PasswordTextBox.png" align="middle">
+    <img style="height: 50px; width: 250px" src="images/PasswordTextBox.png" align="middle">
  
 - Click on the `Sign me in` button to enter the application.
 
@@ -62,7 +62,7 @@ Using the `AC Tajanlangit System` requires you to log in using the URL: `http://
 
 - `Forgot Password?` - is a hyperlink feature where you can reset your password to get a new password. 
 
-    <img style="height: 35px; width: 250px" src="/images/OtherButtonInLogInPage.png">
+    <img style="height: 35px; width: 250px" src="images/OtherButtonInLogInPage.png">
 
 <hr />
 
