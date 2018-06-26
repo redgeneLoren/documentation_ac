@@ -74,20 +74,26 @@ In this section we will start to create a new project as an `admin` using the `A
 
 ### <strong>I. Creating your first Project</strong>
 
-- If this is the first time a project is to be created this would be the steps in creating a new project.
+If this is the first time a project is to be created this would be the steps in creating a new project.
 
 - After you log in using an <strong>`admin role`</strong> credential a pop up window will appear. The pop up window is labeled as `Create New Project`.
 
+`Create New Project` has three steps in order to successfully create a new project. 
+
+1. Fill in `Basic information`
+2. Fill in the `Adressess`
+3. `Choose Divisions`
+
 <img src="images/CreateNewProject.png" height="450px">
 
-- Details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
+1. `Fill in Basic Information` - details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
 
-<table>
+<table width="700px">
     <tr>
-        <td width="450px">
-            <img src="images/CreateNewProject_Details.jpg" height="350px">
+        <td width="550px">
+            <img src="images/CreateNewProject_Details.jpg" height="400px">
         </td>
-        <td width="250px"><strong>Project Name</strong> - this is where the name of the project will be set. <br /> <br />
+        <td width="400px"><strong>Project Name</strong> - this is where the name of the project will be set. <br /> <br />
         <strong>Code</strong> - this is the unique identifier of the project, the code can be alphanumeric. It depends on the required `id code` by management per project.<br /> <br />
         <strong>Company Name</strong> - this is where the name of the company of the project will be set. <br /> <br />
         <strong>Description</strong> - this is where the description of the project will be set.
@@ -96,6 +102,8 @@ In this section we will start to create a new project as an `admin` using the `A
 </table>
 
 - After you have filled in the information for each category you may click on the button `Next Step ->` <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
+
+2. Fill in the `Addresses` - these are detailed information with the company addresses. 
 
 ### <strong>II. Creating a project with an existing project</strong>
 
