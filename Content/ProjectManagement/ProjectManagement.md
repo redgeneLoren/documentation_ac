@@ -68,7 +68,7 @@ Once planning of a project is complete, the assigned `admin` will begin to creat
 
 To be assigned to an `admin role`, contact your appointed admin in order to get credentials for an `admin role`.
 
-In this section we will start to create a new project as an `admin` using the `AC Tajanlangit System`. In creating a project there are two scenarios, First scenario is `creating a project for the first time` and `creating a project with an existing project`. 
+In this section we will start to create a new project as an `admin` using the `AC Tajanlangit System`. In creating a project there are two scenarios, First scenario is `creating a project for the first time` and the second scenario is `creating a project with an existing project`. 
 
 ### <strong>I. Creating your first Project</strong>
 
@@ -76,13 +76,35 @@ If this is the first time a project is to be created this would be the steps in 
 
 - After you log in using an <strong>`admin role`</strong> credential a pop up window will appear. The pop up window is labeled as `Create New Project`.
 
-`Create New Project` has three steps in order to successfully create a new project. 
-
-1. Fill in `Basic information`
-2. Fill in the `Adressess`
-3. `Choose Divisions`
 
 <img src="images/CreateNewProject.png" height="450px">
+
+The `Create New Project` have three steps in order to successfully create a new project. 
+
+<table>
+    <tr>
+          <td>
+            <img src="images/CreateNewProject_Steps.jpg" height="350px">
+        </td>
+        <td>1. Fill in <strong>Basic information</strong> with the following details: <br />
+            <li>Project Name</li>
+            <li>Code</li> 
+            <li>Company Name</li>
+            <li>Description</li>
+            <br />
+            2. Fill in the <strong>Adressess</strong> with the following details: <br />
+              <li>Address 1</li>
+            <li>Address 2</li> 
+            <li>City</li>
+            <li>State/Province</li>
+            <li>Zipcode</li>
+            <br />
+            3. <strong>Choose Divisions</strong> - select division for the project. <br />
+        </td>
+        <td>
+        </td>
+    </tr>
+</table>
 
 1. `Fill in Basic Information` - details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
 
@@ -101,7 +123,11 @@ If this is the first time a project is to be created this would be the steps in 
 
 - After you have filled in the information for each category you may click on the button `Next Step ->` <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
 
-2. Fill in the `Addresses` - these are detailed information with the company addresses. 
+After clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" height="20px"> the next page for creating a new project is the  `Addresses`.
+
+2. Fill in the `Addresses` - these are required information for the company addresses of the project. 
+
+<img src="images/Addresses_CNP.png">
 
 ### <strong>II. Creating a project with an existing project</strong>
 
