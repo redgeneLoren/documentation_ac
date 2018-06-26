@@ -2,7 +2,9 @@
 
 ## <ins>Dashboard</ins>
 
-<img src="images/dashboard.png">
+! [alt text] (images/dashboard.png)
+
+<img src="documentation_ac/Content/ProjectManagement/images/dashboard.png">
 
 The <b>dashboard</b> serves as the `homepage` in the `AC Tajanlangit System`. This is where you will be able to view all the listed functions for the development of a project. 
 
@@ -115,9 +117,15 @@ Clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" heigh
 
 ### Step 2. Fill in the `Addresses`
 
-These are required information for the company addresses of the project. 
+These are required information for the company addresses of the project. You have to make sure that all information are filled in to have a better analysis on the project's data. 
 
 <img src="images/Addresses_CNP.png">
+
+Once you are done filling in the data for the `Addresses` you may click on the `Next Step->` <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: `Basic Information` click on the `<-Previous Step` button. 
+
+And If you want to go back to the log in screen you may click on the  `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
+
+
 
 ### Step 3. Choose `Divisions`
 
