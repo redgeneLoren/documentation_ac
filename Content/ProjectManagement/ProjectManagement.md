@@ -2,8 +2,6 @@
 
 ## <ins>Dashboard</ins>
 
-Once you have successfully logged in to the <a href="http://actajanlangit.herokuapp.com" >AC Tajanlangit System </a> you will be able to view the <b>dashboard</b>. 
-
 <img src="images/dashboard.png">
 
 The <b>dashboard</b> serves as the `homepage` in the `AC Tajanlangit System`. This is where you will be able to view all the listed functions for the development of a project. 
