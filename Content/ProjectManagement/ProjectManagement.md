@@ -2,7 +2,7 @@
 
 ## <ins>Dashboard</ins>
 
-Once you have successfully logged in to the `AC Tajanlangit System` you will be able to view the <b>dashboard</b>. 
+Once you have successfully logged in to the <a href="http://actajanlangit.herokuapp.com" >AC Tajanlangit System </a> you will be able to view the <b>dashboard</b>. 
 
 <img src="images/dashboard.png">
 
@@ -20,21 +20,21 @@ The header section is located at the top most of the dashboard. It contains the 
 
 <strong>`Icon Controllers`</strong> - there are six icons with different options in the application. These are the following:
 
-- Settings
+- General Settings - 
 
-- Chat / Messenger
+- Chat / ToDo / System Settings - 
 
-- Notifications
+- Notifications - 
 
-- Switch Project / Create a new Project
+- Switch Project / Create a new Project - 
 
-- Resources
+- Resources - 
 
-- Profile
+- Profile - 
 
 ### II. Menu Bar
 
-The `menu bar` is located at the left most part of the dashboard under the `ACT logo`. It is where you will be able to view the list of features for the project development.
+The `menu bar` is located at the left most part of the dashboard under the `ACT logo`. By clicking on the `menu buttons` in the `menu bar` you will be able to view the different features for a project development using the `AC Tajanlangit System`.
 
 <table>
     <tr>
@@ -48,15 +48,17 @@ The `menu bar` is located at the left most part of the dashboard under the `ACT 
         <strong>Purchase Requests</strong> - view list of manual purchase request, search for manual purchase request, sort and filter for manual purchase request, approve manual purchase request, create manual purchase request and view list of historical changes of purchase request.<br /> <br />
         <strong>Purchase Orders</strong> -approve purchase order, view list of approved purchase order, search for purchase order, sort and filter purchase order, view details of purchase order, view list of historical changes of urchase order, view cost monitor in purchase order page, view cost monitor in service purchase order page<br /><br />
         <strong>Job Orders</strong> - create job orders, view list of job orders. <br /><br />
+        <strong>Service Purchase Orders</strong> - <br /><br />
         <strong>Billings</strong> - create billing for accounting and list of billings <br /><br />
-        <strong>Vendors</strong> - view list of vendors, update vendor record
+        <strong>Vendors</strong> - add a vendor, view list of vendors, update vendor record <br /><br />
+        <strong>Settings</strong> - 
         </td>
     </tr>
 </table>
 
-### II. Content Section
+### III. Content Section
 
-The content section is the interactive page of the application. It lets the user view the content of each command selected from the `menu bar` and the `icon controller`. 
+The content section is the interactive page of the application. It lets the user view the content of each command selected from the `menu bar` and the `icon controller`. It is where most of the development of a project is worked on. 
 
 <img src="images/ContentSection.jpg">
 
@@ -64,20 +66,60 @@ The content section is the interactive page of the application. It lets the user
 
 ## <ins>Creating a Project - Admin Role</ins>
 
-Once planning of a project is complete, the assigned `admin` will begin to create a project. In creating a project in the application, the user is required to be assigned under an <b>`admin role`</b>.
+Once planning of a project is complete, the assigned `admin` will begin to create a project using the `AC Tajanlangit System` to put in to details the project. In creating a project in the application, the user is required to be assigned under an <b>`admin role`</b>, if the user is not assigned as an admin, the user is unable to create a new project.
 
-In this section we will start to create a new project using the `AC Tajanlangit System`.
+To be assigned to an `admin role`, contact your appointed admin in order to get credentials for an `admin role`.
 
-- On the upper right hand corner of the dashboard, you will see 6 different icons. 
+In this section we will start to create a new project as an `admin` using the `AC Tajanlangit System`. In creating a project there are two scenarios, First scenario is `creating a project for the first time` and `creating a project with an existing project`. 
 
-- Click the <b>`Create Project / Switch Project icon`</b> <img src="images/NewProject_SwitchProject.jpg" height="20px"> on the upper right part of the dashboard to `create a new project`. The icon looks like an unopened folder with a star character inside the folder.
+### <strong>I. Creating your first Project</strong>
+
+- If this is the first time a project is to be created this would be the steps in creating a new project.
+
+- After you log in using an <strong>`admin role`</strong> credential a pop up window will appear. The pop up window is labeled as `Create New Project`.
+
+<img src="images/CreateNewProject.png" height="450px">
+
+- Details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
+
+<table>
+    <tr>
+        <td width="450px">
+            <img src="images/CreateNewProject_Details.jpg" height="350px">
+        </td>
+        <td width="250px"><strong>Project Name</strong> - this is where the name of the project will be set. <br /> <br />
+        <strong>Code</strong> - this is the unique identifier of the project, the code can be alphanumeric. It depends on the required `id code` by management per project.<br /> <br />
+        <strong>Company Name</strong> - this is where the name of the company of the project will be set. <br /> <br />
+        <strong>Description</strong> - this is where the description of the project will be set.
+        </td>
+    </tr>
+</table>
+
+- After you have filled in the information for each category you may click on the button `Next Step ->` <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
+
+### <strong>II. Creating a project with an existing project</strong>
+
+- On the upper right hand corner of the dashboard, you will see 6 different icons.
+
+<img src="images/TopRightIcons.jpg" >
+
+- To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <b>`Create Project / Switch Project`</b>  on the upper right part of the dashboard.
 
 <img src="images/CreateProject.jpg">
+
+- Once you have clicked on the `folder icon` you will see an opened window with the label `switch project`
+
+- On that `switch project` window there is a button labeled as `create project`. Click on the `create project` button to start a new project.
+
+- Details of the project will be required to be filled in to better understand the nature of the project. Type in the following information of the project:
+
+    - 
 
 <hr />
 
 
 ### Switching between Projects - All Users 
+
 
 <hr />
 
