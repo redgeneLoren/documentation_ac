@@ -76,32 +76,18 @@ If this is the first time a project is to be created this would be the steps in 
 
 - After you log in using an <strong>`admin role`</strong> credential a pop up window will appear. The pop up window is labeled as `Create New Project`.
 
-
 <img src="images/CreateNewProject.png" height="450px">
 
 The `Create New Project` have three steps in order to successfully create a new project. 
 
-<table>
+<table border="0">
     <tr>
           <td>
             <img src="images/CreateNewProject_Steps.jpg" height="350px">
         </td>
-        <td>1. Fill in <strong>Basic information</strong> with the following details: <br />
-            <li>Project Name</li>
-            <li>Code</li> 
-            <li>Company Name</li>
-            <li>Description</li>
-            <br />
-            2. Fill in the <strong>Adressess</strong> with the following details: <br />
-              <li>Address 1</li>
-            <li>Address 2</li> 
-            <li>City</li>
-            <li>State/Province</li>
-            <li>Zipcode</li>
-            <br />
-            3. <strong>Choose Divisions</strong> - select division for the project. <br />
-        </td>
-        <td>
+        <td>1. Fill in <strong>Basic information</strong><br />
+            2. Fill in the <strong>Adressess</strong><br />
+            3. <strong>Choose Divisions</strong><br />
         </td>
     </tr>
 </table>
@@ -123,7 +109,7 @@ The `Create New Project` have three steps in order to successfully create a new 
 
 - After you have filled in the information for each category you may click on the button `Next Step ->` <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
 
-After clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" height="20px"> the next page for creating a new project is the  `Addresses`.
+Clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" height="20px"> lets you enter the next page which is the  `Addresses`.
 
 2. Fill in the `Addresses` - these are required information for the company addresses of the project. 
 
