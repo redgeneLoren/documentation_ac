@@ -92,7 +92,9 @@ The `Create New Project` have three steps in order to successfully create a new 
     </tr>
 </table>
 
-1. `Fill in Basic Information` - details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
+### Step 1. `Fill in Basic Information`
+
+The details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
 
 <table width="700px">
     <tr>
@@ -111,9 +113,15 @@ The `Create New Project` have three steps in order to successfully create a new 
 
 Clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" height="20px"> lets you enter the next page which is the  `Addresses`.
 
-2. Fill in the `Addresses` - these are required information for the company addresses of the project. 
+### Step 2. Fill in the `Addresses`
+
+These are required information for the company addresses of the project. 
 
 <img src="images/Addresses_CNP.png">
+
+### Step 3. Choose `Divisions`
+
+
 
 ### <strong>II. Creating a project with an existing project</strong>
 
