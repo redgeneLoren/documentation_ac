@@ -2,9 +2,7 @@
 
 ## <ins>Dashboard</ins>
 
-! [alt text] (images/dashboard.png)
-
-<img src="documentation_ac/Content/ProjectManagement/images/dashboard.png">
+![homepage](images/dashboard.png)
 
 The <b>dashboard</b> serves as the `homepage` in the `AC Tajanlangit System`. This is where you will be able to view all the listed functions for the development of a project. 
 
