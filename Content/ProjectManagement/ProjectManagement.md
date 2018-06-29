@@ -4,19 +4,19 @@
 
 <img src="images/dashboard.png">
 
-The <b>dashboard</b> serves as the `homepage` in the `AC Tajanlangit System`. This is where you will be able to view all the listed functions for the development of a project. 
+The <b>dashboard</b> serves as the <b>homepage</b> in the <strong>AC Tajanlangit System</strong>. This is where you will be able to view all the listed functions for the development of a project. 
 
 Here are the different sections in the application:
 
 ### I. Header Section
 
-The header section is located at the top most of the dashboard. It contains the <strong>`ACT logo`</strong> on the left side of the header, the <strong>`Project Name`</strong> at the center of the header and the <strong>`Icon Controllers`</strong> on the right side of the header.
+The header section is located at the top most of the dashboard. It contains the <strong>ACT logo</strong> on the left side of the header, the <strong>Project Name</strong> at the center of the header and the <strong>Icon Controllers</strong> on the right side of the header.
 
 <img src="images/HeaderFunction.jpg">
 
-<strong>`Project Name`</strong> - the project name will change if the user have switched to a different project or if the user had created a new project.
+<strong>Project Name</strong> - the project name will change if the user have switched to a different project or if the user had created a new project.
 
-<strong>`Icon Controllers`</strong> - there are six icons with different options in the application. These are the following:
+<strong>Icon Controllers</strong> - there are six icons with different options in the application. These are the following:
 
 - General Settings - 
 
@@ -32,7 +32,7 @@ The header section is located at the top most of the dashboard. It contains the 
 
 ### II. Menu Bar
 
-The `menu bar` is located at the left most part of the dashboard under the `ACT logo`. By clicking on the `menu buttons` in the `menu bar` you will be able to view the different features for a project development using the `AC Tajanlangit System`.
+The <b>menu bar</b> is located at the left most part of the dashboard under the <b>ACT logo</b>. By clicking on the <b>menu buttons</b> in the <b>menu bar</b> you will be able to view the different features for a project development using the <strong>AC Tajanlangit System</strong>.
 
 <table>
     <tr>
@@ -56,7 +56,7 @@ The `menu bar` is located at the left most part of the dashboard under the `ACT 
 
 ### III. Content Section
 
-The content section is the interactive page of the application. It lets the user view the content of each command selected from the `menu bar` and the `icon controller`. It is where most of the development of a project is worked on. 
+The content section is the interactive page of the application. It lets the user view the content of each command selected from the <b>menu bar</b> and the <b>icon controller</b>. It is where most of the development of a project is worked on. 
 
 <img src="images/ContentSection.jpg">
 
@@ -64,21 +64,21 @@ The content section is the interactive page of the application. It lets the user
 
 ## <ins>Creating a Project - Admin Role</ins>
 
-Once planning of a project is complete, the assigned `admin` will begin to create a project using the `AC Tajanlangit System` to put in to details the project. In creating a project in the application, the user is required to be assigned under an <b>`admin role`</b>, if the user is not assigned as an admin, the user is unable to create a new project.
+Once planning of a project is complete, the assigned <b>admin</b> will begin to create a project using the <strong>AC Tajanlangit System</strong> to put in to details the project. In creating a project in the application, the user is required to be assigned under an <b>admin role</b>, if the user is not assigned as an admin, the user is unable to create a new project.
 
-To be assigned to an `admin role`, contact your appointed admin in order to get credentials for an `admin role`.
+To be assigned to an <b>admin role</b>, contact your appointed admin in order to get credentials for an <b>admin role</b>.
 
-In this section we will start to create a new project as an `admin` using the `AC Tajanlangit System`. In creating a project there are two scenarios, First scenario is `creating a project for the first time` and the second scenario is `creating a project with an existing project`. 
+In this section we will start to create a new project as an <b>admin</b> using the <strong>AC Tajanlangit System</strong>. In creating a project there are two scenarios, First scenario is <b>creating a project for the first time</b> and the second scenario is <b>creating a project with an existing project</b>. 
 
 ### <strong>I. Creating your first Project</strong>
 
 If this is the first time a project is to be created this would be the steps in creating a new project.
 
-- After you log in using an <strong>`admin role`</strong> credential a pop up window will appear. The pop up window is labeled as `Create New Project`.
+- After you log in using an <strong>admin role</strong> credential a pop up window will appear. The pop up window is labeled as <b>Create New Project</b>.
 
 <img src="images/CreateNewProject.png" height="450px">
 
-The `Create New Project` have three steps in order to successfully create a new project. 
+The <b>Create New Project</b> has three steps in order to successfully create a new project. 
 
 <table border="0">
     <tr>
@@ -92,7 +92,7 @@ The `Create New Project` have three steps in order to successfully create a new 
     </tr>
 </table>
 
-### Step 1. `Fill in Basic Information`
+### Step 1. <b>Fill in Basic Information</b>
 
 The details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
 
@@ -109,23 +109,23 @@ The details of the project will be required to be filled in to better understand
     </tr>
 </table>
 
-- After you have filled in the information for each category you may click on the button `Next Step ->` <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
+- After you have filled in the information for each category you may click on the button <b>Next Step -></b> <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
 
-Clicking on the `Next Step ->` button <img src="images/NextStepButton.jpg" height="20px"> lets you enter the next page which is the  `Addresses`.
+Clicking on the <b>Next Step -></b> button <img src="images/NextStepButton.jpg" height="20px"> lets you enter the next page which is the  <b>Addresses</b>.
 
-### Step 2. Fill in the `Addresses`
+### Step 2. Fill in the <b>Addresses</b>
 
 These are required information for the company addresses of the project. You have to make sure that all information are filled in to have a better analysis on the project's data. 
 
 <img src="images/Addresses_CNP.png">
 
-Once you are done filling in the data for the `Addresses` you may click on the `Next Step->` <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: `Basic Information` click on the `<-Previous Step` button. 
+Once you are done filling in the data for the <b>Addresses</b> you may click on the <b>Next Step-></b> <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: <b>Basic Information</b> click on the <b><-Previous Step</b> button. 
 
-And If you want to go back to the log in screen you may click on the  `cancel button` <img src="images/CancelButton.jpg"> to go back to the `log in` page.
+And If you want to go back to the log in screen you may click on the  <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
 
 
 
-### Step 3. Choose `Divisions`
+### Step 3. Choose <b>Divisions</b>
 
 
 
@@ -135,13 +135,13 @@ And If you want to go back to the log in screen you may click on the  `cancel bu
 
 <img src="images/TopRightIcons.jpg" >
 
-- To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <b>`Create Project / Switch Project`</b>  on the upper right part of the dashboard.
+- To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <strong>Create Project / Switch Project</strong>  on the upper right part of the dashboard.
 
 <img src="images/CreateProject.jpg">
 
-- Once you have clicked on the `folder icon` you will see an opened window with the label `switch project`
+- Once you have clicked on the <b>folder icon</b> you will see an opened window with the label <b>switch project</b>
 
-- On that `switch project` window there is a button labeled as `create project`. Click on the `create project` button to start a new project.
+- On that <b>switch project</b> window there is a button labeled as <b>create project</b>. Click on the <b>create project</b> button to start a new project.
 
 - Details of the project will be required to be filled in to better understand the nature of the project. Type in the following information of the project:
 
