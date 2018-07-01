@@ -12,7 +12,7 @@ Here are the different sections in the application:
 
 The header section is located at the top most of the dashboard. It contains the <strong>ACT logo</strong> on the left side of the header, the <strong>Project Name</strong> at the center of the header and the <strong>Icon Controllers</strong> on the right side of the header.
 
-<img src="images/HeaderFunction.jpg">
+<img src="images/HeaderFunction.jpg" width="800px">
 
 <strong>Project Name</strong> - the project name will change if the user have switched to a different project or if the user had created a new project.
 
@@ -40,8 +40,8 @@ The <b>menu bar</b> is located at the left most part of the dashboard under the 
         <th>Menu bar Functionality</th>
     </tr>
     <tr>
-        <td width="200px"><img src="images/MenuBar.jpg"></td>
-        <td>
+        <td width="350px"><img src="images/MenuBar.jpg"></td>
+        <td width="350px">
         <strong>Material Scheduler</strong> - view details of material scope and schedules, approve material scope and schedule and view list of historical changes of material scope and schedule. <br /> <br />
         <strong>Purchase Requests</strong> - view list of manual purchase request, search for manual purchase request, sort and filter for manual purchase request, approve manual purchase request, create manual purchase request and view list of historical changes of purchase request.<br /> <br />
         <strong>Purchase Orders</strong> -approve purchase order, view list of approved purchase order, search for purchase order, sort and filter purchase order, view details of purchase order, view list of historical changes of urchase order, view cost monitor in purchase order page, view cost monitor in service purchase order page<br /><br />
@@ -49,14 +49,14 @@ The <b>menu bar</b> is located at the left most part of the dashboard under the 
         <strong>Service Purchase Orders</strong> - <br /><br />
         <strong>Billings</strong> - create billing for accounting and list of billings <br /><br />
         <strong>Vendors</strong> - add a vendor, view list of vendors, update vendor record <br /><br />
-        <strong>Settings</strong> - 
+        <strong>Project Settings</strong> - edit project information, upload material schedule, add divisions to project, edit access list of users to access the project. 
         </td>
     </tr>
 </table>
 
 ### III. Content Section
 
-The content section is the interactive page of the application. It lets the user view the content of each command selected from the <b>menu bar</b> and the <b>icon controller</b>. It is where most of the development of a project is worked on. 
+The content section is the <b>interactive page</b> of the application. It lets the user view the content of each command selected from the <b>menu bar</b> and the <b>icon controller</b>. It is where most of the development of a project is worked on. 
 
 <img src="images/ContentSection.jpg">
 
@@ -76,14 +76,14 @@ If this is the first time a project is to be created this would be the steps in 
 
 - After you log in using an <strong>admin role</strong> credential a pop up window will appear. The pop up window is labeled as <b>Create New Project</b>.
 
-<img src="images/CreateNewProject.png" height="450px">
+<img src="images/CreateNewProject.png">
 
 The <b>Create New Project</b> has three steps in order to successfully create a new project. 
 
 <table border="0">
     <tr>
           <td>
-            <img src="images/CreateNewProject_Steps.jpg" height="350px">
+            <img src="images/CreateNewProject_Steps.jpg">
         </td>
         <td>1. Fill in <strong>Basic information</strong><br />
             2. Fill in the <strong>Adressess</strong><br />
@@ -98,7 +98,7 @@ The details of the project will be required to be filled in to better understand
 
 <table width="700px">
     <tr>
-        <td width="550px">
+        <td width="700px">
             <img src="images/CreateNewProject_Details.jpg" height="400px">
         </td>
         <td width="400px"><strong>Project Name</strong> - this is where the name of the project will be set. <br /> <br />
@@ -119,47 +119,106 @@ These are required information for the company addresses of the project. You hav
 
 <img src="images/Addresses_CNP.png">
 
-Once you are done filling in the data for the <b>Addresses</b> you may click on the <b>Next Step-></b> <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: <b>Basic Information</b> click on the <b><-Previous Step</b> button. 
+Once you are done filling in the data for the <b>Addresses</b> you may click on the <b>Next Step-></b> <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: <b>Basic Information</b> click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px">. 
 
 And If you want to go back to the log in screen you may click on the  <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
 
-
-
 ### Step 3. Choose <b>Divisions</b>
 
+The last step in creating a new project is to select the <strong>divisions</strong> involved in the project. You may select multiple divisions.
 
+<img src="images/CreateNewProject_Divisions.png">
+
+After you have selected the divisions involved in the project you may click the <strong>Done & Save it</strong> button in order to complete the setup of the new project, but if you wish to go back to the <strong>Addresses</strong> page you may click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px"> to return to the previous page.
+
+And if you want to go back to the log in screen you may click the <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
 
 ### <strong>II. Creating a project with an existing project</strong>
 
-- On the upper right hand corner of the dashboard, you will see 6 different icons.
+On the upper right hand corner of the dashboard, you will see 6 different icons.
 
 <img src="images/TopRightIcons.jpg" >
 
-- To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <strong>Create Project / Switch Project</strong>  on the upper right part of the dashboard.
+To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <strong>Create Project / Switch Project</strong>  on the upper right part of the dashboard.
 
 <img src="images/CreateProject.jpg">
 
-- Once you have clicked on the <b>folder icon</b> you will see an opened window with the label <b>switch project</b>
+Once you have clicked on the <b>folder icon</b> you will see an opened window with the label <b>switch project</b>
 
-- On that <b>switch project</b> window there is a button labeled as <b>create project</b>. Click on the <b>create project</b> button to start a new project.
+<img src="images/SwitchProject.png">
 
-- Details of the project will be required to be filled in to better understand the nature of the project. Type in the following information of the project:
+On that <b>switch project</b> window there is a button labeled as <b>create project</b>. Click on the <b>create project</b> button to start a new project.
 
-    - 
+<img src="images/CreateNewProjectButton.png">
+
+Details of the project will be required to be filled in to better understand the nature of the project. There are 3 steps to complete in order to successfully create a new project.
+
+### Step 1. <b>Fill in Basic Information</b>
+
+The details of the project will be required to be filled in to better understand the nature of the project. Type in the following information:
+
+<table width="700px">
+    <tr>
+        <td width="700px">
+            <img src="images/CreateNewProject_Details.jpg" height="400px">
+        </td>
+        <td width="400px"><strong>Project Name</strong> - this is where the name of the project will be set. <br /> <br />
+        <strong>Code</strong> - this is the unique identifier of the project, the code can be alphanumeric. It depends on the required `id code` by management per project.<br /> <br />
+        <strong>Company Name</strong> - this is where the name of the company of the project will be set. <br /> <br />
+        <strong>Description</strong> - this is where the description of the project will be set.
+        </td>
+    </tr>
+</table>
+
+- After you have filled in the information for each category you may click on the button <b>Next Step -></b> <img src="images/NextStepButton.jpg" height="20px"> to proceed to the next page. But if you decide to cancel in creating a new project, click on the <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
+
+Clicking on the <b>Next Step -></b> button <img src="images/NextStepButton.jpg" height="20px"> lets you enter the next page which is the  <b>Addresses</b>.
+
+### Step 2. Fill in the <b>Addresses</b>
+
+These are required information for the company addresses of the project. You have to make sure that all information are filled in to have a better analysis on the project's data. 
+
+<img src="images/Addresses_CNP.png">
+
+Once you are done filling in the data for the <b>Addresses</b> you may click on the <b>Next Step-></b> <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: <b>Basic Information</b> click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px">. 
+
+And If you want to go back to the log in screen you may click on the  <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
+
+### Step 3. Choose <b>Divisions</b>
+
+The last step in creating a new project is to select the <strong>divisions</strong> involved in the project. You may select multiple divisions.
+
+<img src="images/CreateNewProject_Divisions.png">
+
+After you have selected the divisions involved in the project you may click the <strong>Done & Save it</strong> button in order to complete the setup of the new project, but if you wish to go back to the <strong>Addresses</strong> page you may click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px"> to return to the previous page.
+
+And if you want to go back to the log in screen you may click the <b>cancel button</b> <img src="images/CancelButton.jpg"> to go back to the <b>log in</b> page.
+
 
 <hr />
 
 
-### Switching between Projects - All Users 
+## Switching between Projects - All Users 
 
+The <strong>AC Tajanlangit System</strong> can contain multiple projects. In the application you can be able to switch between projects. In order to switch between projects, you have to be logged in to view the <strong>dashboard</strong> of the application. Once you are in the dashboard click on the <strong>folder icon</strong> <img src="images/NewProject_SwitchProject.jpg" height="20px"> located at the top right of the <strong>dashboard</strong>.
+
+<img src="images/CreateProject.jpg">
+
+Once you have clicked on the <b>folder icon</b> you will see an new window with the label <b>Switch Projects</b>. Select a project below the search box of the Switch Projects window. Use the scrollbar on the right to scroll down to view more projects. 
+
+<img src="images/SwitchProject.png">
+
+Once you have selected a different project, you will return to the dashboard of the application. The <strong>Project name</strong> on the <strong>header section</strong> will change to the name of the project you have selected. You have now successfully switched between projects.
+
+<img src="images/HeaderFunction.jpg" width="800px">
 
 <hr />
 
 
-### Assigning users to Projects - Admin Role
+## Assigning users to Projects - Admin Role
 
 <hr />
 
-### Assigning divisions to Projects - Admin Role
+## Assigning divisions to Projects - Admin Role
 
 <hr />
