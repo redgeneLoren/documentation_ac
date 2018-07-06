@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-<img src="images/dashboard.png">
+<p style="text-align=center"><img src="images/dashboard.png"></p>
 
 <div align="justify">
 
@@ -20,7 +20,7 @@ The header section is located at the top most of the dashboard. It contains the 
 
 </div>
 
-<img src="images/HeaderFunction.jpg" width="800px">
+<p style="text-align=center"><img src="images/HeaderFunction.jpg" width="800px"></p>
 
 <div align="justify">
 
@@ -71,7 +71,7 @@ The content section is the <b>interactive page</b> of the application. It lets t
 
 </div>
 
-<img src="images/ContentSection.jpg">
+<p style="text-align=center"><img src="images/ContentSection.jpg"></p>
 
 <hr />
 
@@ -97,7 +97,7 @@ If this is the first time a project is to be created this would be the steps in 
 
 </div>
 
-<p style="text-align: center"><img src="images/CreateNewProject.png" height="50%" width="85%">
+<p style="text-align: center"><img src="images/CreateNewProject.png" height="50%" width="85%"></p>
 
 The <b>Create New Project</b> has three steps in order to successfully create a new project. 
 
@@ -156,7 +156,7 @@ These are required information for the company addresses of the project. You hav
 
 </div>
 
-<img src="images/Addresses_CNP.png">
+<p style="text-align=center"><img src="images/Addresses_CNP.png"></p>
 
 <div align="justify">
 
@@ -172,7 +172,7 @@ And If you want to go back to the log in screen you may click on the  <b>cancel 
 
 The last step in creating a new project is to select the <strong>divisions</strong> involved in the project. You may select multiple divisions.
 
-<img src="images/CreateNewProject_Divisions.png">
+<p style="text-align=center"><img src="images/CreateNewProject_Divisions.png"></p>
 
 After you have selected the divisions involved in the project you may click the <strong>Done & Save it</strong> button in order to complete the setup of the new project, but if you wish to go back to the <strong>Addresses</strong> page you may click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px"> to return to the previous page.
 
@@ -186,19 +186,19 @@ And if you want to go back to the log in screen you may click the <b>cancel butt
 
 On the upper right hand corner of the dashboard, you will see 6 different icons.
 
-<img src="images/TopRightIcons.jpg" >
+<p style="text-align=center"><img src="images/TopRightIcons.jpg"></p>
 
 To create a new project click the folder icon <img src="images/NewProject_SwitchProject.jpg" height="20px"> that serves as the <strong>Create Project / Switch Project</strong>  on the upper right part of the dashboard.
 
-<img src="images/CreateProject.jpg">
+<p style="text-align=center"><img src="images/CreateProject.jpg"></p>
 
 Once you have clicked on the <b>folder icon</b> you will see an opened window with the label <b>switch project</b>
 
-<img src="images/SwitchProject.png">
+<p style="text-align=center"><img src="images/SwitchProject.png"></p>
 
 On that <b>switch project</b> window there is a button labeled as <b>create project</b>. Click on the <b>create project</b> button to start a new project.
 
-<img src="images/CreateNewProjectButton.png">
+<p style="text-align=center"><img src="images/CreateNewProjectButton.png"></p>
 
 Details of the project will be required to be filled in to better understand the nature of the project. There are 3 steps to complete in order to successfully create a new project.
 
@@ -242,7 +242,7 @@ Clicking on the <b>Next Step -></b> button <img src="images/NextStepButton.jpg" 
 
 These are required information for the company addresses of the project. You have to make sure that all information are filled in to have a better analysis on the project's data. 
 
-<img src="images/Addresses_CNP.png">
+<p style="text-align=center"><img src="images/Addresses_CNP.png"></p>
 
 Once you are done filling in the data for the <b>Addresses</b> you may click on the <b>Next Step-></b> <img src="images/NextStepButton.jpg" height="20px"> button to proceed to the next page but if you want to go back to the first step: <b>Basic Information</b> click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px">. 
 
@@ -256,7 +256,7 @@ And If you want to go back to the log in screen you may click on the  <b>cancel 
 
 The last step in creating a new project is to select the <strong>divisions</strong> involved in the project. You may select multiple divisions.
 
-<img src="images/CreateNewProject_Divisions.png">
+<p style="text-align=center"><img src="images/CreateNewProject_Divisions.png"></p>
 
 After you have selected the divisions involved in the project you may click the <strong>Done & Save it</strong> button in order to complete the setup of the new project, but if you wish to go back to the <strong>Addresses</strong> page you may click on the <b><-Previous Step</b> button <img src="images/PreviousStep_Button.png" height="20px"> to return to the previous page.
 
@@ -276,19 +276,19 @@ In order to switch between projects, you have to be logged in to view the <stron
 
 Once you are in the dashboard click on the <strong>folder icon</strong> <img src="images/NewProject_SwitchProject.jpg" height="20px"> located at the top right of the <strong>dashboard</strong>.
 
-<img src="images/CreateProject.jpg">
+<p style="text-align=center"><img src="images/CreateProject.jpg"></p>
 
 Once you have clicked on the <b>folder icon</b> you will see an new window with the label <b>Switch Projects</b>. 
 
 Select a project below the search box of the Switch Projects window. Use the scrollbar on the right to scroll down to view more projects. 
 
-<img src="images/SwitchProject.png">
+<p style="text-align=center"><img src="images/SwitchProject.png"></p>
 
 Once you have selected a different project, you will return to the dashboard of the application. 
 
 The <strong>Project name</strong> on the <strong>header section</strong> will change to the name of the project you have selected. You have now successfully switched between projects.
 
-<img src="images/HeaderFunction.jpg" width="800px">
+<p style="text-align=center"><img src="images/HeaderFunction.jpg" width="800px"></p>
 
 </div>
 <hr />
