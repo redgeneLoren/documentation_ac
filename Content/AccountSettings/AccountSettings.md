@@ -88,7 +88,7 @@ Editing the account information in the profile page can be accessed by all users
 <table align="center">
     <tr>
         <td>
-            <img src="images/PencilIcon.jpg" height="250px" width="400px">
+            <img src="images/PencilIcon.jpg">
         </td>
         <td>
             <p> In the <b>Profile Information panel</b>, you can be able to edit the following details:</p>
