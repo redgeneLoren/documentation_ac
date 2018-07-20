@@ -64,7 +64,7 @@ The profile page in the <strong>AC Tajanlangit System</strong> lets the you mana
         <img src="images/ProjectsSection.jpg">
         </td>
         <td width="330px">
-            <img src="RecentActivitiesSection.jpg" height="300px">
+            <img src="images/RecentActivitiesSection.jpg" height="300px">
             <hr />
              <p><b>III. Recent Activities</b> - It contains the list of activities done in the system per project. It shows the date and time of activity and details of the activity done.</p>
         </td>
