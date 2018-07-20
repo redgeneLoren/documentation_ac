@@ -347,7 +347,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
 <table border="1" align="center">
     <tr>
         <td width="250px">
-            <img src="images/IconController.jpg" height="250px">
+            <img src="images/IconController.jpg">
         </td>
         <td>
             <p>1. Go to the dashboard page.</p>
