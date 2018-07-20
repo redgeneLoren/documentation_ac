@@ -114,7 +114,7 @@ To edit the following profile details:
 <table border="0">
     <tr>
         <td>
-            <img src="images/PencilIcon.jpg" height="250px">
+            <img src="images/PencilIcon.jpg">
         </td>
         <td width="300px">
             <ul>
