@@ -344,7 +344,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
 
 8. Click the `Add` button beside the textbox.
 
-<table border="1" align="center">
+<table align="center">
     <tr>
         <td width="250px">
             <img src="images/IconController.jpg">
@@ -368,7 +368,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
 
 <p style="page-break-after: always;">&nbsp;</p>
 
-<table broder="1">
+<table>
     <tr rowspan="3">
     <hr />
     <td>4. Search a user to edit. Once found select the user by clicking on the full name beside the user's avatar.</td>
@@ -379,7 +379,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
     </tr>
 </table>
 
-<table border="1">
+<table>
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
