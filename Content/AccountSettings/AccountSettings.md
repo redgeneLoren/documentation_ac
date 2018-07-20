@@ -297,7 +297,7 @@ This feature allows you to edit or add roles to your own profile settings. Here 
 
 5. Click the `Add` button beside the textbox.
 
-<table>
+<table border="1">
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
@@ -344,7 +344,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
 
 8. Click the `Add` button beside the textbox.
 
-<table align="center">
+<table border="1" align="center">
     <tr>
         <td width="250px">
             <img src="images/IconController.jpg" height="250px">
@@ -379,7 +379,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
     </tr>
 </table>
 
-<table>
+<table border="1">
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
