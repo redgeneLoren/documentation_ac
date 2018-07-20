@@ -111,7 +111,7 @@ To edit the following profile details:
 
 3. Click on the `Save` button to save or click on the `Cancel` to cancel the changes. 
 
-<table border="0">
+<table>
     <tr>
         <td>
             <img src="images/PencilIcon.jpg">
@@ -297,7 +297,7 @@ This feature allows you to edit or add roles to your own profile settings. Here 
 
 5. Click the `Add` button beside the textbox.
 
-<table border="1">
+<table>
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
