@@ -219,7 +219,7 @@ To reset the password go to the `Profile Settings` page. Navigate to the `Creden
 
 5. An email will be sent with your password. 
 
-<table border="1">
+<table>
     <tr>
         <td>
             <p>1. Go to the `Profile Settings` page.</p>
@@ -297,7 +297,7 @@ This feature allows you to edit or add roles to your own profile settings. Here 
 
 5. Click the `Add` button beside the textbox.
 
-<table border="1">
+<table>
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
@@ -344,7 +344,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
 
 8. Click the `Add` button beside the textbox.
 
-<table border="1" align="center">
+<table align="center">
     <tr>
         <td width="250px">
             <img src="images/IconController.jpg" height="250px">
@@ -379,7 +379,7 @@ This feature allows you to edit or add roles to a different user. Here are the s
     </tr>
 </table>
 
-<table border="1">
+<table>
     <tr>
         <td width="250px">
             <img src="images/RolesSection.jpg" width="300px">
