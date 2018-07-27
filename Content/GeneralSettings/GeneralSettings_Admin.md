@@ -30,7 +30,7 @@ To access the `General Settings` page:
             <p>3. Select the `General Settings` icon.</p>
         </td>
         <td>
-            <img src="images/IconController.jpg" height="350px">
+            <img src="images/IconController.jpg">
         </td>
         <tr align="center">
             <td colspan="2">
@@ -134,20 +134,22 @@ You may use the scroll bar or use the search box to find the user. The profile p
 4. Edit the account of the user selected.
 
 <table>
-    <td>
-        <img src="images/UserManagementIcon.jpg">
-    </td>
-    <td>
-        <p>1. Go to the General Settings page.</p>
-        <p>2. Select User Management on the left panel of the General Settings page.</p>
-        <p>The User Management page will appear in the content section.</p>
-    </td>
+    <tr>
+        <td>
+            <img src="images/UserManagementIcon.jpg">
+        </td>
+        <td>
+            <p>1. Go to the General Settings page.</p>
+            <p>2. Select User Management on the left panel of the General Settings page.</p>
+            <p>The User Management page will appear in the content section.</p>
+        </td>
+    </tr>
     </tr>
         <tr>
         <td colspan="2">
            <p>3. Select a user to edit in the list of users in the User management. </p>
            <p>You may use the scroll bar or use the search box to find the user. The profile page of the user will appear on top of the dashboard.</p>
-            <p>4. Edit the account of the user selected.</p>
+            <p>4. Edit the account of the user selected in the user's profile page.</p>
         </td>
     </tr>
     <tr>
@@ -176,19 +178,59 @@ NOTE: Be careful when modifiying the divisions. Changes to the divisions will re
 
 2. Select `Divisions` on the left panel of the `General Settings` page.
 
-3. Click the `+ Create Division` button in the content section.
-
 The `New Division Form` will come to view in the content section of the `General Settings` page.
+
+3. Click the `+ Create Division` button in the content section.
 
 4. Fill in the details for the new division inside each textboxes with labels `Code` and `Division name`.
 
 5. Click the `Save User` button to save the changes or click the `Cancel` button to disregard changes.
 
+<table>
+    <tr>
+        <td>
+            <img src="images/DivisionIcon.jpg">
+        </td>
+        <td>
+           <p>1. Go to the `General Settings` page.</p>
+            <p>2. Select `Divisions` on the left panel of the `General Settings` page.</p>
+            <p>The `New Division Form` will come to view in the content section of the `General Settings` page.</p>
+        </td>
+    </tr>
+       <tr>
+        <td colspan="2">
+           3. Click the <b>+ Create Division button</b> <img src="images/CreateDivisionButton.jpg"> in the content section.
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="images/DivisionPage.jpg">        
+        </td>
+    </tr>
+    <tr>
+        <td width="150px">
+            <p>4. Fill in the details for the new division inside each textboxes with labels <b>Code</b> and <b>Division name</b>.</p>
+            <p>5. Click the <b>Save User</b> button to save the changes or click the <b>Cancel</b> button to disregard changes.</p>
+        </td>
+        <td>
+            <img src="images/NewDivisionForm.jpg">   
+        </td>
+    </tr>
+</table>
+
 A pop up notification will appear at the right side of the page once the changes has been saved. 
 
 Check the `Division management` page, if the division was successfully added. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
 
-NOTE: The `Division Code` is a unique identifier that distinctly identifies a division to other divisions. <b>Duplicate division code is not allowed.</b> If the division code has been deleted, <b>it cannot be reused.</b>
+<table>
+    <tr>
+        <td width="300px">
+            <p>NOTE: The <b>Division Code</b> is a unique identifier that distinctly identifies a division to other divisions. <b>Duplicate division code is not allowed.</b> If the division code has been deleted, <b>it cannot be reused.</b> An error message will appear on the upper right corner of the page to notify `Duplicate code error`.</p>
+        </td>
+        <td>
+            <img src="images/WarningCodeHasBeenTaken.jpg">
+        </td>
+    </tr>
+</table>
 
 ### <ins>Manage Divisions</ins>
 
@@ -213,7 +255,47 @@ A pop up confirmation message will appear on top of the page.
 
 5. Click the `OK` button to delete the division or click the `Nevermind` button to cancel the delete action.
 
-A pop up notificaiton will appear at the right side of the page once changes has been saved.
+A pop up notificaiton will appear at the right side of the page to indicated that the division has been removed.
+
+<table>
+     <tr>
+        <td>
+            <img src="images/DivisionIcon.jpg">
+        </td>
+        <td>
+           <p>1. Go to the <b>General Settings</b> page.</p>
+            <p>2. Select <b>Divisions</b> on the left panel of the <b>General Settings</b> page.</p>
+            <p>The <b>Division Management</b> will appear on the content section. Use the scroll bar or use the search box to find the division.</p>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="2">
+          <p>3. Select a division to delete.</p> 
+        <p>4. Click the delete button <img src="images/DeleteIcon.jpg"> on the right side beside the <b>Division Name</b>.</p>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="images/DeleteDivisionPage.jpg">        
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>A pop up confirmation message will appear on top of the page.</p>
+            <p>5. Click the <b>OK</b> button to delete the division or click the <b>Nevermind</b> button to cancel the delete action.</p>
+        </td>
+        <td>
+            <img src="images/PleaseConfirmNotif.jpg"> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>A pop up notificaiton will appear at the right side of the page to indicated that the division has been removed.</p>
+        </td>
+        <td>
+            <img src="images/SuccessRemoveDivNotif.jpg">
+        </td>
+    </tr>
+</table>
 
 Check the `Division management` page, if the division was successfully deleted. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
 
@@ -225,10 +307,43 @@ To rename a division:
 
 The `Division Management` will appear in the content section. Use the scroll bar or use the search box to find the division.
 
-3. Select a division to edit. 
+3. Select a division to edit by using the search box or use the scroll bar to scroll through the list of divisions.
 4. Click the pencil icon beside the `Division Name`.
 5. Click the textbox labeled as `Division Name` to rename.
 6. Click the `Save` button to save changes or click the cancel to disregard changes made.
+
+<table>
+   <tr>
+        <td>
+            <img src="images/DivisionIcon.jpg">
+        </td>
+        <td>
+           <p>1. Go to the <b>General Settings</b> page.</p>
+            <p>2. Select <b>Divisions</b> on the left panel of the <b>General Settings</b> page.</p>
+            <p>The <b>Division Management</b> will appear on the content section. Use the scroll bar or use the search box to find the division.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p>3. Select a division to edit by using the search box or use the scroll bar to scroll through the list of divisions.</p>
+            <p>4. Click the pencil icon <img src="images/PencilIcon.jpg"> beside the <b>Division Name</b>.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="images/EditDivisionPage.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="200px">
+            <p>5. Click the textbox labeled as <b>Division Name</b> to rename.</p>
+            <p>6. Click the `Save` button to save changes or click the cancel to disregard changes made.</p>
+        </td>
+        <td>
+            <img src="images/EditDivisionControl.jpg">
+        </td>
+    </tr>
+</table>
 
 Check the `Division management` page, if the division was successfully edited. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
 
@@ -256,9 +371,60 @@ The Company Information page will appear in the content section of the `General 
 
 - Phone - Click the textbox below the label `Phone` to edit detail.
 
-- Fax - Clikc the text textbox below the label `Fax` to edit detail.
+- Fax - Click the text textbox below the label `Fax` to edit detail.
 - Email Address - Click the textbox below the label `Email Address` to edit detail.
 
 4. Click the `Save Company Details` to save changes.
+
+<table>
+    <tr>
+        <td>
+            <img src="images/DivisionIcon.jpg">
+        </td>
+        <td>
+           <p>1. Go to the <b>General Settings</b> page.</p>
+            <p>2.Select <b>Company Information</b> inside the <b>General Settings </b>page</p>
+            <p>The <b>Company Information</b> page will appear in the content section of the <b>General Settings </b>page.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+         <p>The Company Information page will appear in the content section of the General Settings page.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>3. Edit the following details:</p>
+            <ul>
+                <li>Company Name - Click the textbox below the label <b>Company Name</b> to edit detail.
+                </li>
+                <li>Company Logo - Upload a logo by dragging or dropping a logo inside the square box at the right side of the `Company Information` page.
+                </li>
+                <li>
+                Complete Address - Click the textbox below the label `Complete Address` to edit detail. 
+                </li>
+            </ul>
+         <td>
+        <ul>
+            <li>Phone - Click the textbox below the label `Phone` to edit detail.
+            </li>
+            <li>Fax - Click the text textbox below the label `Fax` to edit detail.
+            </li>
+            <li>Email Address - Click the textbox below the label `Email Address` to edit detail.
+            </li>
+        </ul>
+     </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+        <img src="images/CompanyInformationPage.jpg">
+    </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <p>4. Click the `Save Company Details` to save changes.</p>
+        </td>
+    </tr>
+</table>
 
 <hr />
