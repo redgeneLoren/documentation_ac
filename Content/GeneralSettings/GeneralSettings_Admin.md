@@ -16,7 +16,7 @@ To access the `General Settings` page:
 
 3. Select the `General Settings` icon.
 
-<table>
+<table align="center">
     <tr>
         <td width="200px">
             <p>1. Log in using your register <b>Email</b> and <b>Password</b>.</p>
@@ -57,12 +57,16 @@ The `General Settings` is divided to two sections:
 
 <hr />
 
+<p style="page-break-after: always;">&nbsp;</p>
+
 ## General Settings - Creating and Managing User Accounts (Admin)
 
 Creating and managing user accounts is one of the features in the `General Settings` page. This feature allows the user admin to create a new user in the system and edit the user account information in the user's profile page.
 
-<img src="images/UserManagementHomePage.jpg">
-   
+<p align="center">
+    <img src="images/UserManagementHomePage.jpg" height="250px">
+</p>
+
 ### <ins>Create User</ins>
 
 1. Go to the `General Settings` page.
@@ -119,10 +123,13 @@ To check if the user has been successfully added in the system, scroll to the us
 
 NOTE: Only an `admin` role has access to this feature.
 
+<hr />
+
+<p style="page-break-after: always;">&nbsp;</p>
+
 ### <ins>Manage User Account </ins>  
 
 1. Go to the `General Settings` page.
-
 2. Select `User Management` on the left panel of the `General Settings` page.
 
 The `User Management` page will come to view in the content section.
@@ -136,7 +143,7 @@ You may use the scroll bar or use the search box to find the user. The profile p
 <table>
     <tr>
         <td>
-            <img src="images/UserManagementIcon.jpg">
+            <img src="images/UserManagementIcon.jpg" height="200px">
         </td>
         <td>
             <p>1. Go to the General Settings page.</p>
@@ -148,13 +155,13 @@ You may use the scroll bar or use the search box to find the user. The profile p
         <tr>
         <td colspan="2">
            <p>3. Select a user to edit in the list of users in the User management. </p>
-           <p>You may use the scroll bar or use the search box to find the user. The profile page of the user will appear on top of the dashboard.</p>
+           You may use the scroll bar or use the search box to find the user. The profile page of the user will appear on top of the dashboard.
             <p>4. Edit the account of the user selected in the user's profile page.</p>
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <img src="images/EditUser.jpg">
+        <td colspan="2" align="center">
+            <img src="images/EditUser.jpg" height="250px" width="400px">
         </td>
     </tr>
 </table>
@@ -170,7 +177,6 @@ NOTE: Only an `admin` role has access to this feature.
 Creating and Managing Divisions can be accessed in the `General Settings` page. This feature allows the user admin to add missed division assigned to a project or create a new division to the system. 
 
 NOTE: Be careful when modifiying the divisions. Changes to the divisions will reflect to all of the documents and records.
-
 
 ### <ins>Create Divisions</ins>
 
@@ -207,7 +213,7 @@ The `New Division Form` will come to view in the content section of the `General
         </td>
     </tr>
     <tr>
-        <td width="150px">
+        <td width="200px">
             <p>4. Fill in the details for the new division inside each textboxes with labels <b>Code</b> and <b>Division name</b>.</p>
             <p>5. Click the <b>Save User</b> button to save the changes or click the <b>Cancel</b> button to disregard changes.</p>
         </td>
@@ -221,7 +227,7 @@ A pop up notification will appear at the right side of the page once the changes
 
 Check the `Division management` page, if the division was successfully added. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
 
-<table>
+<table align="center">
     <tr>
         <td width="300px">
             <p>NOTE: The <b>Division Code</b> is a unique identifier that distinctly identifies a division to other divisions. <b>Duplicate division code is not allowed.</b> If the division code has been deleted, <b>it cannot be reused.</b> An error message will appear on the upper right corner of the page to notify `Duplicate code error`.</p>
@@ -231,6 +237,10 @@ Check the `Division management` page, if the division was successfully added. Sc
         </td>
     </tr>
 </table>
+
+<hr />
+
+<p style="page-break-after: always;">&nbsp;</p>
 
 ### <ins>Manage Divisions</ins>
 
@@ -257,7 +267,7 @@ A pop up confirmation message will appear on top of the page.
 
 A pop up notificaiton will appear at the right side of the page to indicated that the division has been removed.
 
-<table>
+<table align="center">
      <tr>
         <td>
             <img src="images/DivisionIcon.jpg">
@@ -298,6 +308,10 @@ A pop up notificaiton will appear at the right side of the page to indicated tha
 </table>
 
 Check the `Division management` page, if the division was successfully deleted. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
+
+<hr />
+
+<p style="page-break-after: always;">&nbsp;</p>
 
 To rename a division:
 
@@ -348,6 +362,8 @@ The `Division Management` will appear in the content section. Use the scroll bar
 Check the `Division management` page, if the division was successfully edited. Scroll to the list of divisions using the scroll bar or use the search box to narrow the search of the division.
 
 <hr />
+
+<p style="page-break-after: always;">&nbsp;</p>
 
 ## General Settings - Manage Company Information (Admin)
 
